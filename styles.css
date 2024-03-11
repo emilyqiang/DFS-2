@@ -1,0 +1,32 @@
+#dfs2 {
+    background-color: white;
+    height: vh;
+    width: vw;
+  }
+  
+  #circle {
+    border-radius:50%;
+    width:200px;
+    height:200px;
+    background-color:red;
+    position:absolute;
+    left:-50px;
+    top:-50px;
+  }
+  spen {
+    font-family: "Space Grotesk";
+  }
+  .body1 {
+    position: absolute;
+    max-width: 45%;
+    text-indent: 50px;
+    padding: 2%;
+  }
+  
+  .body2 {
+    right: 0%;
+    position: absolute;
+    max-width: 45%;
+    text-indent: 50px;
+    padding: 2%;
+  }
